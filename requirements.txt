@@ -1,0 +1,10 @@
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchainhub
+langgraph
+SQLAlchemy
+requests
+fastapi
+uvicorn

@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+build/
+dist/
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Testing/typing caches
+.pytest_cache/
+.mypy_cache/
+.pyre/
+.pytype/
+.cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Frontend (Vite)
+frontend/node_modules/
+frontend/dist/
