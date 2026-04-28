@@ -1,0 +1,1 @@
+Código para criação de um agente capaz de processar consultas de linguagem natural para SQL.
